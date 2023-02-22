@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-underline: none;
+  text-decoration: none;
+  color: inherit;
+}
+
+* {
+  font-family: Calibri, sans-serif;
+  font-size: 1.7vw;
+}
+
+h1 {
+  font-size: 4vw;
+  font-weight: 900;
+}
+
+h2 {
+  font-size: 1.5vw;
+  font-weight: 800;
+}
+
+h3 {
+  font-size: 1vw;
+  font-weight: 700;
+}
+
+button {
+  background-color: dodgerblue;
+  padding: 1vw 2vw;
+  border-radius: 1vw;
+  user-select: none;
+  color: white;
+  text-align: center;
+}
+button:hover {
+  background-color: #1874ce;
+  cursor: pointer;
+}
+button:active {
+  background-color: #1464b2;
+}
+
+input[type=text] {
+  border: 0.3vw solid black;
+  padding: 1vw;
+  border-radius: 1vw;
+}
+
+select {
+  border: 0.3vw solid black;
+  padding: 10px;
+  border-radius: 1vw;
+}
+
+/*# sourceMappingURL=style.css.map */
